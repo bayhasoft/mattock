@@ -1,0 +1,11 @@
+{
+  "values": [
+    "mattock:wooden_mattock",
+    "mattock:stone_mattock",
+    "mattock:copper_mattock",
+    "mattock:iron_mattock",
+    "mattock:golden_mattock",
+    "mattock:diamond_mattock",
+    "mattock:netherite_mattock"
+  ]
+}

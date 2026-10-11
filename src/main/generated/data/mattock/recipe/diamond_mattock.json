@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": "minecraft:stick",
+    "x": "minecraft:diamond"
+  },
+  "pattern": [
+    "xxx",
+    "xs ",
+    " s "
+  ],
+  "result": {
+    "id": "mattock:diamond_mattock"
+  }
+}

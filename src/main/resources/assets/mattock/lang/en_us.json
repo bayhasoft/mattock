@@ -1,0 +1,20 @@
+{
+  "item.mattock.wooden_mattock": "Wooden Mattock",
+  "item.mattock.stone_mattock": "Stone Mattock",
+  "item.mattock.copper_mattock": "Copper Mattock",
+  "item.mattock.iron_mattock": "Iron Mattock",
+  "item.mattock.golden_mattock": "Golden Mattock",
+  "item.mattock.diamond_mattock": "Diamond Mattock",
+  "item.mattock.netherite_mattock": "Netherire Mattock",
+
+  "item.mattock.wooden_halberd": "Wooden Halberd",
+  "item.mattock.stone_halberd": "Stone Halberd",
+  "item.mattock.copper_halberd": "Copper Halberd",
+  "item.mattock.iron_halberd": "Iron Halberd",
+  "item.mattock.golden_halberd": "Golden Halberd",
+  "item.mattock.diamond_halberd": "Diamond Halberd",
+  "item.mattock.netherite_halberd": "Netherire Halberd",
+
+  "itemTooltip.mattock.halberd" : "+1 Attack Range"
+
+}

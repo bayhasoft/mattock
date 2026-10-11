@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "mattock",
+	"version": "${version}",
+	"name": "Mattock",
+	"description": "Adds Mattocks, a new tool type for mining and digging.",
+	"authors": [
+		"KJ7GDS"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "GPLv3",
+	"icon": "assets/mattock/textures/item/netherite_mattock.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"bayhasoft.mattock.Mattock"
+		],
+		"fabric-datagen": [
+			"bayhasoft.mattock.MattockDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

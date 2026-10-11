@@ -1,0 +1,11 @@
+// 26.3	-999999999-01-01T00:00:00	Mattock/ModRecipeProvider
+46800bd73a939205dd2f4d5c783e2eb110e8e856 data/mattock/advancement/recipes/tools/copper_mattock.json
+86732bc113089da70666c365e5fb3248c83f5451 data/mattock/advancement/recipes/tools/diamond_mattock.json
+d43d75eb6d168933d2f6ed29a2ff13f53558c3b1 data/mattock/advancement/recipes/tools/golden_mattock.json
+675c1ad7c6655ae04b73d805836a59931944a93e data/mattock/advancement/recipes/tools/iron_mattock.json
+658614d4de1289112e641c112d14ae6b2a107827 data/mattock/advancement/recipes/tools/netherite_mattock_smithing.json
+943df6e70fc74ba7110cecb88249068eb5eb939d data/mattock/recipe/copper_mattock.json
+7cdd4050eda350f50efabcebfc1fbc7bf6d83b3c data/mattock/recipe/diamond_mattock.json
+cbb0a162d194078b5e1a45b7957a49e65627105b data/mattock/recipe/golden_mattock.json
+61f5b68b8ea6116784676da89b2b74d0ad45825f data/mattock/recipe/iron_mattock.json
+0f2d0f55a485ac899a61feb37cf0f32b965d754e data/mattock/recipe/netherite_mattock_smithing.json
