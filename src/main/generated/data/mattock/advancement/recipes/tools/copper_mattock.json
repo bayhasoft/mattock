@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipes": "mattock:copper_mattock"
+        "recipe": "mattock:copper_mattock"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
